@@ -1,0 +1,7 @@
+For the code please look at:
+
+PCA.py
+NB.py
+
+
+The HW1.py is just a test file

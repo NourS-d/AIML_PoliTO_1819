@@ -1,0 +1,1 @@
+ResNet.pt is the trained resnet model. It just needs to be loaded :)
